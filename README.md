@@ -1,84 +1,78 @@
-# Menu Flexitarien pour 2 personnes (Lundi au Vendredi)
+# Menu Flexitarien Sportif pour 2 Personnes (Lundi au Vendredi)
 
-## Menu quotidien
+Bienvenue dans votre menu personnalisé adapté à un régime flexitarien et une activité sportive régulière (course à pieds, natation). Ce menu est conçu pour minimiser la viande, optimiser les apports énergétiques, et faciliter les préparations avec les équipements disponibles.
 
-### Lundi
-- Déjeuner : Salade de quinoa aux légumes (préparation 20 min, 500 kcal)
-- Dîner : Poisson grillé avec légumes rôtis (préparation 30 min, 600 kcal)
+---
 
-### Mardi
-- Déjeuner : Soupe de légumes (préparation 25 min, 400 kcal)
-- Dîner : Pâtes aux légumes avec sauce tomate (préparation 25 min, 550 kcal)
+## Menu de la Semaine
 
-### Mercredi
-- Déjeuner : Salade de tofu aux légumes (préparation 20 min, 500 kcal)
-- Dîner : Curry de légumes avec riz (préparation 30 min, 600 kcal)
+| Jour | Déjeuner | Dîner |
+|-------|------------|-----------|
+| Lundi | Salade de quinoa aux légumes (20 min, 500 kcal) | Poisson grillé avec légumes rôtis (30 min, 600 kcal) |
+| Mardi | Soupe de légumes (25 min, 400 kcal) | Pâtes aux légumes avec sauce tomate (25 min, 550 kcal) |
+| Mercredi | Salade de tofu aux légumes (20 min, 500 kcal) | Curry de légumes avec riz (30 min, 600 kcal) |
+| Jeudi | Salade de lentilles avec légumes (20 min, 500 kcal) | Pizza végétarienne (25 min, 600 kcal) |
+| Vendredi | Salade de quinoa aux légumes (20 min, 500 kcal) | Tofu grillé avec légumes rôtis (25 min, 550 kcal) |
 
-### Jeudi
-- Déjeuner : Salade de lentilles avec légumes (préparation 20 min, 500 kcal)
-- Dîner : Pizza végétarienne (préparation 25 min, 600 kcal)
+---
 
-### Vendredi
-- Déjeuner : Salade de quinoa aux légumes (préparation 20 min, 500 kcal)
-- Dîner : Tofu grillé avec légumes rôtis (préparation 25 min, 550 kcal)
+## Liste des Ingrédients & Quantités (pour 5 jours, 2 personnes)
 
-## Liste des ingrédients nécessaires
-- Quinoa
-- Légumes variés (poivrons, carottes, courgettes, etc.)
-- Poisson (saumon ou tilapia)
-- Tofu
-- Pâtes
-- Sauce tomate
-- Curry en poudre
-- Lentilles
-- Riz
-- Tomates
-- Oignons
-- Ail
-- Huile d'olive
-- Sel et poivre
+- Quinoa : 500g
+- Légumes variés (poivrons, carottes, courgettes, tomates) : 3 kg
+- Poisson (saumon ou tilapia) : 600g
+- Tofu : 400g
+- Pâtes : 400g
+- Sauce tomate : 500ml
+- Lentilles : 400g
+- Riz : 300g
+- Oignons : 500g
+- Ail : 5 gousses
+- Huile d'olive : 150ml
+- Épices (curry, sel, poivre) : selon goût
 
-## Liste de courses avec estimation du prix
-- Quinoa : 2,50 €
-- Légumes variés : 5 €
-- Poisson : 8 €
-- Tofu : 3 €
-- Pâtes : 1,50 €
-- Sauce tomate : 2 €
-- Curry en poudre : 1,50 €
-- Lentilles : 1,50 €
-- Riz : 1,50 €
-- Tomates : 2 €
-- Oignons : 1 €
-- Ail : 0,50 €
+---
+
+## Estimation de Prix (approximative)
+
+- Quinoa : 4 €
+- Légumes variés : 15 €
+- Poisson : 10 €
+- Tofu : 6 €
+- Pâtes : 2 €
+- Sauce tomate : 3 €
+- Lentilles : 2 €
+- Riz : 2 €
+- Oignons : 2 €
+- Ail : 1 €
 - Huile d'olive : 3 €
-- Sel et poivre : 1 €
+- Épices : 1 €
 
-## Temps de conservation maximum des ingrédients
+**Total estimé : 51 €**
+
+---
+
+## Temps de Conservation Maximum
+
 - Quinoa : 6 mois
 - Légumes variés : 1 semaine
 - Poisson : 2 jours
 - Tofu : 1 semaine
 - Pâtes : 1 an
 - Sauce tomate : 6 mois
-- Curry en poudre : 1 an
 - Lentilles : 1 an
 - Riz : 6 mois
-- Tomates : 1 semaine
 - Oignons : 1 semaine
 - Ail : 1 semaine
 - Huile d'olive : 1 an
-- Sel et poivre : 1 an
-
-## Adaptation des repas en fonction du temps de conservation
-- Utiliser les légumes frais rapidement (au plus tard dans la semaine)
-- Consommer le poisson en début de semaine (lundi)
-- Conserver quinoa, pâtes, riz, lentilles, épices à long terme
+- Épices : 1 an
 
 ---
 
-Ce fichier contient le menu complet hebdomadaire, la liste des ingrédients, la liste des courses avec estimation des prix, les temps de conservation pour une bonne gestion et l'adaptation des repas.
+*Menu adaptable selon conservation : privilégier poisson et légumes frais en début de semaine.*
 
-Toutes les recettes sont disponibles dans les dossiers journée correspondants.
+---
 
-Bon appétit !
+Pour plus de détails, consultez les recettes par jour dans les dossiers correspondants.
+
+Bonne dégustation !
