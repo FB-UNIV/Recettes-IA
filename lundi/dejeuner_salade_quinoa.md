@@ -1,26 +1,21 @@
-# Salade de quinoa aux légumes
+# Salade de Quinoa aux Légumes
 
-## Ingrédients pour 2 personnes :
+### Ingrédients (2 personnes)
 - 100g de quinoa
-- 1 poivron rouge
-- 1 concombre
-- 2 tomates
-- 1 oignon rouge
+- 200g de légumes variés (poivrons, carottes, courgettes)
 - 1 cuillère à soupe d'huile d'olive
-- Jus d'un citron
 - Sel, poivre
 
-## Préparation :
-1. Cuire le quinoa selon les indications du paquet (environ 15 minutes).
-2. Couper le poivron, le concombre, les tomates et l'oignon en petits dés.
-3. Mélanger le quinoa refroidi avec les légumes dans un saladier.
-4. Assaisonner avec l'huile d'olive, le jus de citron, le sel et le poivre.
+### Recette
+1. Cuire le quinoa selon les instructions du paquet (environ 15 minutes).
+2. Couper les légumes en petits dés.
+3. Faire revenir les légumes rapidement à la poêle avec l'huile d'olive.
+4. Mélanger le quinoa avec les légumes sautés.
+5. Assaisonner avec sel et poivre selon goût.
 
-## Temps de préparation : 20 minutes
+### Temps de préparation : 20 minutes
+### Impact calorique : environ 500 kcal
 
-## Impact calorique : Environ 500 kcal
+---
 
-## Conservation :
-- Le quinoa cuit peut se conserver 5 jours au réfrigérateur.
-
-Bon appétit !
+[Retour au menu](../README.md)
