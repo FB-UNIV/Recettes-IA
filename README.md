@@ -1,1 +1,84 @@
-# Menu flexitarien pour 2 personnes - Lundi au Vendredi\n\n## Menu\n\n### Lundi\n- Déjeuner : Salade de quinoa aux légumes\n- Dîner : Poisson grillé avec légumes rôtis\n\n### Mardi\n- Déjeuner : Soupe de légumes\n- Dîner : Pâtes aux légumes avec sauce tomate\n\n### Mercredi\n- Déjeuner : Salade de tofu aux légumes\n- Dîner : Curry de légumes avec riz\n\n### Jeudi\n- Déjeuner : Salade de lentilles avec légumes\n- Dîner : Pizza végétarienne\n\n### Vendredi\n- Déjeuner : Salade de quinoa aux légumes\n- Dîner : Tofu grillé avec légumes rôtis\n\n---\n\n## Liste des ingrédients\n\n- Quinoa (6 mois)\n- Légumes variés (1 semaine)\n- Poisson (2 jours)\n- Tofu (1 semaine)\n- Pâtes (1 an)\n- Sauce tomate (6 mois)\n- Curry en poudre (1 an)\n- Lentilles (1 an)\n- Riz (6 mois)\n- Tomates (1 semaine)\n- Oignons (1 semaine)\n- Ail (1 semaine)\n- Huile d'olive (1 an)\n- Sel et poivre (1 an)\n\n---\n\n## Liste de courses et estimation des prix\n\n| Ingrédient       | Quantité approximative | Prix (€) |\n|------------------|-----------------------|----------|\n| Quinoa           | 500g                  | 2.50     |\n| Légumes variés   | 2 kg                  | 5.00     |\n| Poisson          | 400g                  | 8.00     |\n| Tofu             | 400g                  | 3.00     |\n| Pâtes            | 500g                  | 1.50     |\n| Sauce tomate     | 250g                  | 2.00     |\n| Curry en poudre  | 50g                   | 1.50     |\n| Lentilles        | 500g                  | 1.50     |\n| Riz              | 500g                  | 1.50     |\n| Tomates          | 500g                  | 2.00     |\n| Oignons          | 3                     | 1.00     |\n| Ail              | 3 gousses             | 0.50     |\n| Huile d'olive    | 250 ml                | 3.00     |\n| Sel et poivre    | -                     | 1.00     |\n\n---\n\n## Adaptation du menu en fonction du temps de conservation\n\n- Le poisson est utilisé en début de semaine (lundi) pour respecter sa conservation courte.\n- Les légumes sont utilisés dans les premiers jours pour ne pas perdre en fraîcheur.\n- Les ingrédients secs comme quinoa, lentilles, riz, pâtes et curry sont utilisés tout au long de la semaine.\n\n---\n\n## Temps de préparation estimés\n\n- Salade de quinoa aux légumes : 20 minutes\n- Poisson grillé avec légumes rôtis : 30 minutes\n- Soupe de légumes : 25 minutes\n- Pâtes aux légumes : 25 minutes\n- Salade de tofu aux légumes : 20 minutes\n- Curry de légumes avec riz : 30 minutes\n- Salade de lentilles avec légumes : 20 minutes\n- Pizza végétarienne : 25 minutes\n- Tofu grillé avec légumes rôtis : 25 minutes\n\n---\n\n## Impact calorique estimé par repas\n\n- Salade de quinoa aux légumes : 500 kcal\n- Poisson grillé avec légumes rôtis : 600 kcal\n- Soupe de légumes : 400 kcal\n- Pâtes aux légumes : 550 kcal\n- Salade de tofu aux légumes : 500 kcal\n- Curry de légumes avec riz : 600 kcal\n- Salade de lentilles avec légumes : 500 kcal\n- Pizza végétarienne : 600 kcal\n- Tofu grillé avec légumes rôtis : 550 kcal\n\n---\n\nMenu créé pour 2 personnes, avec des plats adaptés pour des personnes pratiquant course à pieds et natation, privilégiant un régime flexitarien et une préparation rapide en cuisine.\n\n---\n\nLien vers les recettes détaillées :\n- Lundi : [Déjeuner](./lundi/dejeuner_salade_quinoa.md), [Dîner](./lundi/diner_poisson_legumes_roti.md)\n- Mardi : [Déjeuner](./mardi/dejeuner_soupe_legumes.md), [Dîner](./mardi/diner_pates_legumes.md)\n- Mercredi : [Déjeuner](./mercredi/dejeuner_salade_tofu.md), [Dîner](./mercredi/diner_curry_legumes.md)\n- Jeudi : [Déjeuner](./jeudi/dejeuner_salade_lentilles.md), [Dîner](./jeudi/diner_pizza_legumes.md)\n- Vendredi : [Déjeuner](./vendredi/dejeuner_salade_quinoa.md), [Dîner](./vendredi/diner_tofu_legumes_roti.md)\n
+# Menu Flexitarien pour 2 personnes (Lundi au Vendredi)
+
+## Menu quotidien
+
+### Lundi
+- Déjeuner : Salade de quinoa aux légumes (préparation 20 min, 500 kcal)
+- Dîner : Poisson grillé avec légumes rôtis (préparation 30 min, 600 kcal)
+
+### Mardi
+- Déjeuner : Soupe de légumes (préparation 25 min, 400 kcal)
+- Dîner : Pâtes aux légumes avec sauce tomate (préparation 25 min, 550 kcal)
+
+### Mercredi
+- Déjeuner : Salade de tofu aux légumes (préparation 20 min, 500 kcal)
+- Dîner : Curry de légumes avec riz (préparation 30 min, 600 kcal)
+
+### Jeudi
+- Déjeuner : Salade de lentilles avec légumes (préparation 20 min, 500 kcal)
+- Dîner : Pizza végétarienne (préparation 25 min, 600 kcal)
+
+### Vendredi
+- Déjeuner : Salade de quinoa aux légumes (préparation 20 min, 500 kcal)
+- Dîner : Tofu grillé avec légumes rôtis (préparation 25 min, 550 kcal)
+
+## Liste des ingrédients nécessaires
+- Quinoa
+- Légumes variés (poivrons, carottes, courgettes, etc.)
+- Poisson (saumon ou tilapia)
+- Tofu
+- Pâtes
+- Sauce tomate
+- Curry en poudre
+- Lentilles
+- Riz
+- Tomates
+- Oignons
+- Ail
+- Huile d'olive
+- Sel et poivre
+
+## Liste de courses avec estimation du prix
+- Quinoa : 2,50 €
+- Légumes variés : 5 €
+- Poisson : 8 €
+- Tofu : 3 €
+- Pâtes : 1,50 €
+- Sauce tomate : 2 €
+- Curry en poudre : 1,50 €
+- Lentilles : 1,50 €
+- Riz : 1,50 €
+- Tomates : 2 €
+- Oignons : 1 €
+- Ail : 0,50 €
+- Huile d'olive : 3 €
+- Sel et poivre : 1 €
+
+## Temps de conservation maximum des ingrédients
+- Quinoa : 6 mois
+- Légumes variés : 1 semaine
+- Poisson : 2 jours
+- Tofu : 1 semaine
+- Pâtes : 1 an
+- Sauce tomate : 6 mois
+- Curry en poudre : 1 an
+- Lentilles : 1 an
+- Riz : 6 mois
+- Tomates : 1 semaine
+- Oignons : 1 semaine
+- Ail : 1 semaine
+- Huile d'olive : 1 an
+- Sel et poivre : 1 an
+
+## Adaptation des repas en fonction du temps de conservation
+- Utiliser les légumes frais rapidement (au plus tard dans la semaine)
+- Consommer le poisson en début de semaine (lundi)
+- Conserver quinoa, pâtes, riz, lentilles, épices à long terme
+
+---
+
+Ce fichier contient le menu complet hebdomadaire, la liste des ingrédients, la liste des courses avec estimation des prix, les temps de conservation pour une bonne gestion et l'adaptation des repas.
+
+Toutes les recettes sont disponibles dans les dossiers journée correspondants.
+
+Bon appétit !
