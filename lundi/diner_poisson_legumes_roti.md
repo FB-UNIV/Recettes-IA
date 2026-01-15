@@ -1,28 +1,23 @@
-# Poisson grillé avec légumes rôtis
+# Poisson Grillé avec Légumes Rôtis
 
-## Ingrédients pour 2 personnes :
-- 2 filets de poisson (saumon ou tilapia)
-- 2 carottes
-- 1 courgette
-- 1 poivron
+### Ingrédients (2 personnes)
+- 300g de poisson (saumon ou tilapia)
+- 300g de légumes variés (carottes, courgettes, poivrons)
 - 2 cuillères à soupe d'huile d'olive
 - Sel, poivre, herbes de Provence
 
-## Préparation :
-1. Préchauffez le four à 200°C.
-2. Coupez les carottes, courgette et poivron en bâtonnets.
-3. Disposez les légumes sur une plaque allant au four, arrosez avec 1 cuillère d'huile d'olive, salez, poivrez et saupoudrez d'herbes de Provence.
-4. Enfournez les légumes pendant 20 minutes.
-5. Pendant ce temps, assaisonnez le poisson avec sel, poivre et un peu d'huile d'olive.
-6. Faites cuire le poisson à la poêle sur les plaques vitro-céramiques pendant environ 5-7 minutes de chaque côté.
-7. Servez les légumes rôtis accompagnés du poisson grillé.
+### Recette
+1. Préchauffer le four à 200°C.
+2. Couper les légumes en morceaux, les disposer sur une plaque de cuisson.
+3. Arroser les légumes avec l'huile d'olive, sel, poivre et herbes.
+4. Enfourner les légumes pendant 20 minutes.
+5. Pendant ce temps, assaisonner le poisson avec sel, poivre.
+6. Poêler le poisson 3-4 minutes de chaque côté.
+7. Servir le poisson chaud avec les légumes rôtis.
 
-## Temps de préparation : 30 minutes
+### Temps de préparation : 30 minutes
+### Impact calorique : environ 600 kcal
 
-## Impact calorique : Environ 600 kcal
+---
 
-## Conservation :
-- Poisson frais : 2 jours au réfrigérateur
-- Légumes : 1 semaine au réfrigérateur
-
-Bon appétit !
+[Retour au menu](../README.md)
