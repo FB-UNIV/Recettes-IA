@@ -1,94 +1,61 @@
-# Menu Flexitarien Sportif - 5 jours (Lundi à Vendredi) pour 2 personnes
+# Menu Flexitarien Sportif - Lundi à Vendredi
 
-## Menu quotidien
-
-Lundi
-- Déjeuner : Salade quinoa, pois chiches, légumes, feta
-- Dîner : Ratatouille au four, pois chiches rôtis, riz complet
-
-Mardi
-- Déjeuner : Wraps houmous, légumes grillés, fromage de chèvre
-- Dîner : Pâtes complètes aux légumes sautés, parmesan
-
-Mercredi
-- Déjeuner : Buddha bowl lentilles, patate douce, avocat, graines
-- Dîner : Omelette aux épinards, salade verte, pain complet
-
-Jeudi
-- Déjeuner : Soupe de légumes, tartines avocat, œuf poché
-- Dîner : Curry de légumes au lait de coco, riz basmati
-
-Vendredi
-- Déjeuner : Salade de pâtes au pesto, tomates cerises, mozzarella
-- Dîner : Pizza maison légumes grillés, salade verte
+Bienvenue dans votre menu hebdomadaire healthy, rapide et adapté pour deux personnes actives (course à pied, natation). Ce menu privilégie des protéines végétales et équilibrées avec des plats simples à préparer.
 
 ---
 
-## Ingrédients totaux nécessaires
+## Menu de la semaine
 
-### Céréales & Légumineuses
-- Quinoa : 300 g
-- Riz complet : 300 g
-- Riz basmati : 200 g
-- Pâtes complètes : 300 g
-- Pois chiches (secs ou en boîte) : 400 g
-- Lentilles vertes : 200 g
-- Pain complet : 6 tranches
-
-### Légumes & Fruits
-- Tomates cerises : 250 g
-- Courgettes : 3 moyennes
-- Aubergines : 2 moyennes
-- Poivrons : 3 (différentes couleurs)
-- Patate douce : 2 moyennes
-- Avocats : 3
-- Épinards frais : 200 g
-- Salades vertes : 2 grandes salades
-- Oignons : 4
-- Ail : 1 tête
-- Carottes : 3
-- Citrons : 2
-
-### Produits frais & Fromages
-- Feta : 150 g
-- Fromage de chèvre : 150 g
-- Parmesan râpé : 100 g
-- Mozzarella : 150 g
-- Œufs : 10
-
-### Autres
-- Houmous : 200 g
-- Lait de coco : 400 ml
-- Pesto : 100 g
-- Graines (courge, tournesol...) : 100 g
-- Huile d'olive : 200 ml
-- Sel, poivre, épices (curry, paprika, herbes de Provence)
+| Jour     | Déjeuner                                   | Dîner                                      |
+|----------|--------------------------------------------|--------------------------------------------|
+| Lundi    | Salade quinoa, pois chiches, légumes, feta| Ratatouille au four, pois chiches, riz complet |
+| Mardi    | Wraps houmous, légumes grillés, chèvre    | Pâtes complètes aux légumes, parmesan      |
+| Mercredi | Buddha bowl lentilles, patate douce, avocat| Omelette aux épinards, salade, pain complet|
+| Jeudi    | Soupe légumes maison, tartines avocat, œuf| Curry légumes coco, riz basmati             |
+| Vendredi | Salade pâtes pesto, tomates, mozzarella   | Pizza maison légumes grillés, salade verte  |
 
 ---
 
-## Estimation prix (approximation)
-- Quinoa, riz, pâtes : 6€
-- Légumineuses : 3€
-- Légumes & fruits : 15€
-- Fromages & œufs : 10€
-- Autres (houmous, lait de coco, graines, huile) : 8€
+## Liste des ingrédients totaux
 
-**Total : environ 42€ pour 5 jours**
+- Quinoa: 250g
+- Pois chiches secs: 200g (ou 2 boîtes de 400g)
+- Feta: 150g
+- Légumes variés (poivrons, concombres, tomates, courgettes, aubergines, patate douce): 2kg environ
+- Salade verte: 150g
+- Riz complet: 200g
+- Pâtes complètes: 250g
+- Parmesan: 60g
+- Fromage de chèvre: 100g
+- Houmous: 150g
+- Lentilles: 150g
+- Avocat: 2 pièces
+- Graines mixtes (lin, tournesol, courge): 50g
+- Œufs: 8
+- Pain complet: 300g
+- Tomates cerises: 150g
+- Lait de coco: 1 boîte (400ml)
+- Pesto: 100g
+- Mozzarella: 150g
+- Sauce tomate maison: 200ml
+- Épinards frais: 150g
+- Huile d'olive: 100ml
+- Épices diverses (curry, sel, poivre, herbes fines): q.s.
+
+
+## Temps de conservation maximum en frigo
+
+- Légumes frais: 3-7 jours selon variété
+- Fromages: 1 semaine
+- Houmous: 3-4 jours
+- Œufs: 3-4 semaines
+- Pain: 2 jours (congel possible)
+- Lait de coco: 3-4 jours après ouverture
 
 ---
 
-## Temps de conservation maximum (approximatif)
-- Quinoa, riz, pâtes secs : 1 an (stockés au sec)
-- Pois chiches, lentilles secs : 1 an
-- Légumes frais : 3-7 jours selon type (avocat 2-3 jours, épinards 3-4 jours, salade 2-3 jours)
-- Fromages frais : 5-7 jours au frigo
-- Œufs : 3-4 semaines
-- Houmous : 5 jours maximum après ouverture
-- Lait de coco : 7-10 jours après ouverture (réfrigéré)
+## Estimation du budget
 
----
+Coût total approximatif : 42 euros pour l'ensemble de la semaine.
 
-## Instructions
-Toutes les recettes détaillées se trouvent dans les dossiers respectifs des jours de la semaine.
 
-Bon appétit !
