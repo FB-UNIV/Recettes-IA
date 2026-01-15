@@ -1,78 +1,94 @@
-# Menu Flexitarien Sportif pour 2 Personnes (Lundi au Vendredi)
+# Menu Flexitarien Sportif - 5 jours (Lundi à Vendredi) pour 2 personnes
 
-Bienvenue dans votre menu personnalisé adapté à un régime flexitarien et une activité sportive régulière (course à pieds, natation). Ce menu est conçu pour minimiser la viande, optimiser les apports énergétiques, et faciliter les préparations avec les équipements disponibles.
+## Menu quotidien
 
----
+Lundi
+- Déjeuner : Salade quinoa, pois chiches, légumes, feta
+- Dîner : Ratatouille au four, pois chiches rôtis, riz complet
 
-## Menu de la Semaine
+Mardi
+- Déjeuner : Wraps houmous, légumes grillés, fromage de chèvre
+- Dîner : Pâtes complètes aux légumes sautés, parmesan
 
-| Jour | Déjeuner | Dîner |
-|-------|------------|-----------|
-| Lundi | Salade de quinoa aux légumes (20 min, 500 kcal) | Poisson grillé avec légumes rôtis (30 min, 600 kcal) |
-| Mardi | Soupe de légumes (25 min, 400 kcal) | Pâtes aux légumes avec sauce tomate (25 min, 550 kcal) |
-| Mercredi | Salade de tofu aux légumes (20 min, 500 kcal) | Curry de légumes avec riz (30 min, 600 kcal) |
-| Jeudi | Salade de lentilles avec légumes (20 min, 500 kcal) | Pizza végétarienne (25 min, 600 kcal) |
-| Vendredi | Salade de quinoa aux légumes (20 min, 500 kcal) | Tofu grillé avec légumes rôtis (25 min, 550 kcal) |
+Mercredi
+- Déjeuner : Buddha bowl lentilles, patate douce, avocat, graines
+- Dîner : Omelette aux épinards, salade verte, pain complet
 
----
+Jeudi
+- Déjeuner : Soupe de légumes, tartines avocat, œuf poché
+- Dîner : Curry de légumes au lait de coco, riz basmati
 
-## Liste des Ingrédients & Quantités (pour 5 jours, 2 personnes)
-
-- Quinoa : 500g
-- Légumes variés (poivrons, carottes, courgettes, tomates) : 3 kg
-- Poisson (saumon ou tilapia) : 600g
-- Tofu : 400g
-- Pâtes : 400g
-- Sauce tomate : 500ml
-- Lentilles : 400g
-- Riz : 300g
-- Oignons : 500g
-- Ail : 5 gousses
-- Huile d'olive : 150ml
-- Épices (curry, sel, poivre) : selon goût
+Vendredi
+- Déjeuner : Salade de pâtes au pesto, tomates cerises, mozzarella
+- Dîner : Pizza maison légumes grillés, salade verte
 
 ---
 
-## Estimation de Prix (approximative)
+## Ingrédients totaux nécessaires
 
-- Quinoa : 4 €
-- Légumes variés : 15 €
-- Poisson : 10 €
-- Tofu : 6 €
-- Pâtes : 2 €
-- Sauce tomate : 3 €
-- Lentilles : 2 €
-- Riz : 2 €
-- Oignons : 2 €
-- Ail : 1 €
-- Huile d'olive : 3 €
-- Épices : 1 €
+### Céréales & Légumineuses
+- Quinoa : 300 g
+- Riz complet : 300 g
+- Riz basmati : 200 g
+- Pâtes complètes : 300 g
+- Pois chiches (secs ou en boîte) : 400 g
+- Lentilles vertes : 200 g
+- Pain complet : 6 tranches
 
-**Total estimé : 51 €**
+### Légumes & Fruits
+- Tomates cerises : 250 g
+- Courgettes : 3 moyennes
+- Aubergines : 2 moyennes
+- Poivrons : 3 (différentes couleurs)
+- Patate douce : 2 moyennes
+- Avocats : 3
+- Épinards frais : 200 g
+- Salades vertes : 2 grandes salades
+- Oignons : 4
+- Ail : 1 tête
+- Carottes : 3
+- Citrons : 2
+
+### Produits frais & Fromages
+- Feta : 150 g
+- Fromage de chèvre : 150 g
+- Parmesan râpé : 100 g
+- Mozzarella : 150 g
+- Œufs : 10
+
+### Autres
+- Houmous : 200 g
+- Lait de coco : 400 ml
+- Pesto : 100 g
+- Graines (courge, tournesol...) : 100 g
+- Huile d'olive : 200 ml
+- Sel, poivre, épices (curry, paprika, herbes de Provence)
 
 ---
 
-## Temps de Conservation Maximum
+## Estimation prix (approximation)
+- Quinoa, riz, pâtes : 6€
+- Légumineuses : 3€
+- Légumes & fruits : 15€
+- Fromages & œufs : 10€
+- Autres (houmous, lait de coco, graines, huile) : 8€
 
-- Quinoa : 6 mois
-- Légumes variés : 1 semaine
-- Poisson : 2 jours
-- Tofu : 1 semaine
-- Pâtes : 1 an
-- Sauce tomate : 6 mois
-- Lentilles : 1 an
-- Riz : 6 mois
-- Oignons : 1 semaine
-- Ail : 1 semaine
-- Huile d'olive : 1 an
-- Épices : 1 an
+**Total : environ 42€ pour 5 jours**
 
 ---
 
-*Menu adaptable selon conservation : privilégier poisson et légumes frais en début de semaine.*
+## Temps de conservation maximum (approximatif)
+- Quinoa, riz, pâtes secs : 1 an (stockés au sec)
+- Pois chiches, lentilles secs : 1 an
+- Légumes frais : 3-7 jours selon type (avocat 2-3 jours, épinards 3-4 jours, salade 2-3 jours)
+- Fromages frais : 5-7 jours au frigo
+- Œufs : 3-4 semaines
+- Houmous : 5 jours maximum après ouverture
+- Lait de coco : 7-10 jours après ouverture (réfrigéré)
 
 ---
 
-Pour plus de détails, consultez les recettes par jour dans les dossiers correspondants.
+## Instructions
+Toutes les recettes détaillées se trouvent dans les dossiers respectifs des jours de la semaine.
 
-Bonne dégustation !
+Bon appétit !
