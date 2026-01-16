@@ -1,15 +1,14 @@
-# Lundi - Repas 2 (Dîner)
+# Lundi – Repas 2 (Dîner)
 
 ## Description
-
-Soupe de lentilles corail, épinards et courgettes, accompagnée de pain complet grillé – repas riche en protéines végétales, fibres et micronutriments, idéal pour la récupération nocturne.
+Soupe de lentilles corail, épinards & pain complet, un repas riche en protéines végétales, fibres et micronutriments.
 
 ## Ingrédients (pour 2 personnes)
 - **Lentilles corail** : 120 g (sec) → 240 g cuites
 - **Epinards frais** : 200 g
 - **Courgette** : 1 ci.
 - **Oignon** : 1 ci.
-- **Ail** : 2 gousses
+- **Ail** : 2 gousses
 - **Bouillon de légumes** : 500 ml
 - **Huile d’olive** : 1 c. à soupe
 - **Sel, poivre** : au goût
