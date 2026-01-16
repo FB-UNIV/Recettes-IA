@@ -2,39 +2,39 @@
 
 ## Description
 
-Salade de quinoa aux légumes grillés, tofu mariné – repas léger, riche en protéines végétales, glucides complexes et fibres, idéal pour la récupération après une séance de course à pied ou natation.
+Soupe de lentilles corail, épinards et courgettes, accompagnée de pain complet grillé – repas riche en protéines végétales, fibres et micronutriments, idéal pour la récupération nocturne.
 
 ## Ingrédients (pour 2 personnes)
-- **Quinoa** : 120 g (sec) → 240 g cuit
-- **Poivron rouge** : 1 ci.
+- **Lentilles corail** : 120 g (sec) → 240 g cuites
+- **Epinards frais** : 200 g
 - **Courgette** : 1 ci.
-- **Carotte** : 1 ci.
-- **Tomate cerise** : 10 pcs
-- **Tofu ferme** : 200 g, coupé en dés
+- **Oignon** : 1 ci.
+- **Ail** : 2 gousses
+- **Bouillon de légumes** : 500 ml
 - **Huile d’olive** : 1 c. à soupe
-- **Citron** : jus de 1/2
-- **Ail** : 1 gousse
 - **Sel, poivre** : au goût
-- **Persil frais** : 1 c. à soupe, haché
+- **Pain complet** : 2 tranches
+- **Persil frais** : 1 c. à soupe, haché
 
 ## Étapes de préparation
-1. Rincer le quinoa à l’eau froide. Le faire cuire dans 240 ml d’eau bouillante salée pendant 12 min, laisser reposer 5 min puis égoutter.
-2. Préchauffer le four à 200 °C. Disposer les dés de poivron, courgette, carotte et tomates cerise sur une plaque. Arroser d’un filet d’huile d’olive, saler, poivrer, et enfourner 20 min.
-3. Pendant ce temps, mariner le tofu : dans un bol, mélanger le jus de citron, l’ail écrasé, l’huile d’olive, sel et poivre. Ajouter les dés de tofu et laisser reposer 10 min.
-4. Dans une grande assiette, disposer le quinoa cuit, les légumes grillés et le tofu mariné. Parsemer de persil haché.
-5. Goûter et rectifier l’assaisonnement.
+1. Émincer l’oignon et l’ail.
+2. Dans une casserole, faire revenir l’oignon et l’ail dans l’huile d’olive jusqu’à ce qu’ils soient translucides.
+3. Ajouter la courgette coupée en dés, le pain complet grillé et les lentilles corail. Remuer 2 min.
+4. Verser le bouillon de légumes, porter à ébullition, puis réduire le feu et laisser cuire 15 min.
+5. Ajouter les épinards, saler, poivrer et laisser cuire 5 min supplémentaires.
+6. Parsemer de persil haché et servir.
 
 ## Temps de préparation
-- Préparation : 15 min
+- Préparation : 10 min
 - Cuisson : 20 min
-- Total : 35 min
+- Total : 30 min
 
 ## Valeur nutritionnelle (par portion)
-- Calories : ~350 kcal
-- Protéines : 13 g
-- Glucides : 50 g
-- Lipides : 12 g
-- Fibres : 9 g
+- Calories : ~380 kcal
+- Protéines : 16 g
+- Glucides : 55 g
+- Lipides : 9 g
+- Fibres : 13 g
 
 ## Orientation sportive
-Ce repas offre un bon équilibre en glucides complexes pour reconstituer les réserves d’ATP, et des protéines végétales pour la réparation musculaire. La présence de légumes fournit des antioxydants essentiels après l’effort.
+Ce repas fournit des protéines complètes et des glucides pour reconstituer les réserves d’ATP, tout en favorisant la récupération musculaire grâce aux antioxydants des légumes.
