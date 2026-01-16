@@ -4,10 +4,10 @@
 | Jour | Repas 1 | Repas 2 |
 |------|---------|---------|
 | **Lundi** | Salade de quinoa, tofu grillé | Soupe de lentilles corail, épinards & pain complet |
-| **Mardi** | Pâtes complètes aux légumes grillés, pois chiches | Poisson‑vingtaine (tofu) | 
-| **Mercredi** | Bol de quinoa, avocat, tomates cerise, pois chiches & graines de chia | Salade de légumes frais, houmous | 
-| **Jeudi** | Curry de lentilles, quinoa & légumes | Salade de quinoa, betterave, noix de cajou | 
-| **Vendredi** | Wraps de laitue, falafel, sauce tahini | Soupe de légumes, pain complet | 
+| **Mardi** | Pâtes complètes aux légumes grillés & pois chiches | Curry de pois chiches & quinoa |
+| **Mercredi** | Bol de quinoa, avocat, tomates cerise, pois chiches & graines de chia | Salade de légumes frais, houmous |
+| **Jeudi** | Curry de lentilles, quinoa & légumes | Salade de quinoa, betterave, noix de cajou |
+| **Vendredi** | Wraps de laitue, falafel, sauce tahini | Soupe de légumes, pain complet |
 
 > *Chaque repas est conçu pour un régime flexitarien, riche en protéines végétales, glucides complexes, fibres et micronutriments. Les temps de préparation sont limités (≤ 35 min) et les équipements disponibles (four, congélateur, réfrigérateur, 3 plaques vitrocéramiques) sont pris en compte.*
 
