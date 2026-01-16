@@ -1,23 +1,37 @@
-# Buddha bowl lentilles, patate douce rôtie, avocat et graines
+# Mercredi - Repas 1 (Déjeuner)
 
-Temps de préparation : 25 minutes
-Apport calorique estimé : 600 kcal par personne
+## Description
+
+Bol de quinoa aux avocats, tomates cerise, pois chiches et graines de chia – repas riche en protéines végétales, acides gras essentiels et fibres, idéal pour la récupération.
 
 ## Ingrédients (pour 2 personnes)
-- 150 g lentilles cuites
-- 400 g patate douce
-- 1 avocat
-- 30 g mélange de graines (chia, tournesol, courge)
-- 1 c. à soupe huile d'olive
-- Sel, poivre
+- **Quinoa** : 120 g (sec) → 240 g cuit
+- **Avocat** : 1 ci.
+- **Tomate cerise** : 10 pcs
+- **Pois chiches cuits** : 150 g
+- **Graines de chia** : 2 c. à soupe
+- **Huile d’olive** : 1 c. à soupe
+- **Sel, poivre** : au goût
+- **Persil frais** : 1 c. à soupe, haché
 
-## Préparation
-1. Préchauffer le four à 200°C.
-2. Couper la patate douce en cubes, assaisonner avec huile, sel et poivre.
-3. Enfourner 20 minutes jusqu'à tendre.
-4. Disposer lentilles, patate douce rôtie, tranches d'avocat et graines dans un bol.
-5. Servir avec un filet d'huile d'olive.
+## Étapes de préparation
+1. Cuire le quinoa dans une casserole d’eau salée pendant 12 min.
+2. Couper l’avocat en dés et les tomates cerise en deux.
+3. Égoutter les pois chiches.
+4. Mélanger le quinoa, l’avocat, les tomates, les pois chiches et les graines de chia.
+5. Arroser d’huile d’olive, saler, poivrer et parsemer de persil.
 
----
+## Temps de préparation
+- Préparation : 10 min
+- Cuisson : 12 min
+- Total : 22 min
 
-*Repas riche en fibres, bonnes graisses et protéines végétales pour l'énergie.*
+## Valeur nutritionnelle (par portion)
+- Calories : ~350 kcal
+- Protéines : 12 g
+- Glucides : 45 g
+- Lipides : 12 g
+- Fibres : 10 g
+
+## Orientation sportive
+Ce plat fournit des glucides complexes pour l’énergie, des protéines végétales pour la récupération, et des acides gras oméga‑3 provenant des graines de chia.
