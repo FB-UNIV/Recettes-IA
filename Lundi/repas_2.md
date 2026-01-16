@@ -1,11 +1,11 @@
-# Lundi – Repas 2 (Dîner)
+# Lundi - Repas 2 : Soupe de lentilles corail, épinards & pain complet
 
 ## Description
-Soupe de lentilles corail, épinards & pain complet, un repas riche en protéines végétales, fibres et micronutriments.
+Soupe nourrissante à base de lentilles corail, épinards et pain complet grillé, riche en protéines végétales et fibres pour soutenir la récupération musculaire après l’effort du matin.
 
 ## Ingrédients (pour 2 personnes)
-- **Lentilles corail** : 120 g (sec) → 240 g cuites
-- **Epinards frais** : 200 g
+- **Lentilles corail** : 120 g (sec) → 240 g cuit
+- **Épinards frais** : 200 g
 - **Courgette** : 1 ci.
 - **Oignon** : 1 ci.
 - **Ail** : 2 gousses
@@ -24,16 +24,16 @@ Soupe de lentilles corail, épinards & pain complet, un repas riche en protéine
 6. Parsemer de persil haché et servir.
 
 ## Temps de préparation
-- Préparation : 10 min
-- Cuisson : 20 min
-- Total : 30 min
+- **Préparation** : 10 min
+- **Cuisson** : 20 min
+- **Total** : 30 min
 
 ## Valeur nutritionnelle (par portion)
-- Calories : ~380 kcal
-- Protéines : 16 g
-- Glucides : 55 g
-- Lipides : 9 g
-- Fibres : 13 g
+- **Calories** : ~380 kcal
+- **Protéines** : 16 g
+- **Glucides** : 55 g
+- **Lipides** : 9 g
+- **Fibres** : 13 g
 
 ## Orientation sportive
-Ce repas fournit des protéines complètes et des glucides pour reconstituer les réserves d’ATP, tout en favorisant la récupération musculaire grâce aux antioxydants des légumes.
+Cette soupe fournit des protéines complètes et des glucides pour reconstituer les réserves d’ATP, tout en favorisant la récupération musculaire grâce aux antioxydants des légumes.
